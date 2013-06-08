@@ -2,7 +2,7 @@
   "name": "input-placeholder",
   "repo": "component-has/input-placeholder",
   "description": "`true` if the browser supports placeholder for the input element.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["has", "input", "placeholder", "?"],
   "dependencies": {},
   "license": "MIT",
