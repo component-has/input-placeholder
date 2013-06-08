@@ -1,0 +1,14 @@
+{
+  "name": "input-placeholder",
+  "repo": "component-has/input-placeholder",
+  "description": "`true` if the browser supports placeholder for the input element.",
+  "version": "0.0.1",
+  "keywords": ["has", "input", "placeholder", "?"],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha": "*"
+  }
+}
